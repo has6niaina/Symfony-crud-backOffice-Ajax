@@ -6,7 +6,7 @@
 * Image
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is just a simple crud using symfony and ajax (jquery) with webpack.
 	
 ## Technologies
 Project is created with:
